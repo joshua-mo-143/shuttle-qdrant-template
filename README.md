@@ -28,10 +28,6 @@ QDRANT_URL = "<ENTER YOUR KEY HERE>"
 cargo shuttle run
 ```
 
-## More Info
-
-Check out our live stream at https://www.youtube.com/watch?v=YLWSeiDh2o0
-
 ## Troubleshooting
-
-- Make sure you Qdrant URL ends with port `:6334`
+- If you run the service but it only lists the files loaded and doesn't try to embed them, check you have credits/funding in your OpenAI account.
+- Make sure your Qdrant URL ends with port `:6334`.
