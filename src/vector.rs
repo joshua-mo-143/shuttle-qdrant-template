@@ -11,7 +11,7 @@ use serde_json::json;
 
 use crate::{
     contents::File,
-    errors::{EmbeddingError, SetupError},
+    errors::EmbeddingError,
 };
 
 static COLLECTION: &str = "docs";
